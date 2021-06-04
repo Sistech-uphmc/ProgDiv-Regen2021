@@ -18,3 +18,10 @@
 
 > Feel free to ask committees if you don't understand the instructions.
 > Notes: You are free to use Google anytime you want to find help.
+
+### Next Test
+
+* Do this test only if you have finished the previous test.
+* In this test, you're required to solve this [Hackerrank Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem)
+
+> You can use any programming language to solve this problem.
