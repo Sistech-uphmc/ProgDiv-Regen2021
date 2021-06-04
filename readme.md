@@ -9,8 +9,8 @@
 + Complete the code based on the instructions below.
     * We have given you some html boilerplate code in [`index.html`](https://github.com/Sistech-uphmc/ProgDiv-Regen2021/blob/main/index.html).
     * To complete this test, your webpage should be able to do these:
-    * Get user input. User input will be the user's name. 
-    * Show user input in the browser with this format: `Your name is <userinput>`
+        - Get user input. User input will be the user's name. 
+        - Show user input in the browser with this format: `Your name is <userinput>`
 + Push your updated file to your forked repository
 + Make pull request to original repository
 
