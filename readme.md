@@ -1,6 +1,6 @@
 ### HMPTIF Programming Division Regeneration
 
-> Make sure you have github account set to complete this test
+> Make sure you have github account set in order to complete this test
 
 ## Steps
 + Fork this repository
