@@ -3,7 +3,7 @@
 In this test you are required to make nodejs env to work.
 - Download Nodejs from [nodejs](https://nodejs.org/en/)
 - Go to your terminal/command prompt
-- Change the current working directory to `server.js`'s file path
+- Change the current working directory to [`server.js`](https://github.com/Sistech-uphmc/ProgDiv-Regen2021/blob/main/test3/server.js)'s file path
 - Run the following command 
 ```
 npm init
