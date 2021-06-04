@@ -1,4 +1,4 @@
-### HMPTIF Programming Division Regeneration
+# HMPTIF Programming Division Regeneration
 
 > Make sure you have github account set in order to complete this test
 
