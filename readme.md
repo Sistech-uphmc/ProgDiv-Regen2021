@@ -2,7 +2,9 @@
 
 > Make sure you have github account set in order to complete this test
 
-## Steps
+## First Test
+
+## Follow the following steps
 + Fork this repository
 + Clone forked repository
 + Go to file named [`index.html`](https://github.com/Sistech-uphmc/ProgDiv-Regen2021/blob/main/index.html)
